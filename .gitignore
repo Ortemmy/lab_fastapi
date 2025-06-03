@@ -28,3 +28,5 @@ __pycache__
 *.dll
 *.so
 *.dylib
+best_resnet50.pth
+venv/
